@@ -78,9 +78,9 @@ const Container = styled.div`
 `;
 function Instagram({ data }) {
   const captions1 = [
-    "We Offer Purchase Prequalify Courses",
-    "We offer Investor Resources",
-    "Join A Local Investor Groups"
+    "Rent Collection",
+    "Resident Screening",
+    "Maintenance"
   ];
   const captions2 = [
     "To make sure you get paid on time, every time, we offer our residents online, automatic rent payment which is deducted instantly from a checking account or credit card. For owners, contributions can be made with a checking account or credit card right from your owner portal, and rent proceeds are direct deposited to owners monthly, so no more trips to the bank. ",
